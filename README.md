@@ -3,7 +3,7 @@
 ### ✨ &emsp; Hi, I'm Leticia, welcome to my github! ✨
 
 
-- 💻 &emsp; I'm a front-end engineer currently working at Vizir Software Studio
+- 💻 &emsp; I'm a software engineer currently working at Liv Up
 - 🎓 &emsp; Postgraduate student in Software Engineering at PUC-SP
 - 🎯 &emsp; A lifelong learner with a focus on build and generating results
 - 📚 &emsp; I'm currently learning and improve about the solutions of software architecture, design patterns and algorithms
