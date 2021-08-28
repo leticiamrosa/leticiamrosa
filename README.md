@@ -1,6 +1,6 @@
 ---
 
-### ✨ &emsp; Hi, I'm Leticia, welcome to my github! ✨
+### ✨ About me ✨
 
 
 - 💻 &emsp; I'm a software engineer currently working at Liv Up
