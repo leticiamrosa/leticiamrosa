@@ -3,7 +3,7 @@
 ### ✨ About me ✨
 
 
-- 💻 &emsp; I'm a software engineer currently working at Liv Up
+- 💻 &emsp; I'm a software engineer currently working at Quinto Andar
 - 🎓 &emsp; Postgraduate in Software Engineering at PUC-SP
 - 🎯 &emsp; A lifelong learner with a focus on build and generating results
 - 📚 &emsp; I'm currently learning and improve about the solutions of software architecture, design patterns and algorithms
