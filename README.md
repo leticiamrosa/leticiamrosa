@@ -3,7 +3,7 @@
 ### ✨ About me ✨
 
 
-- 💻 &emsp; I'm a software engineer with about 9 years of experience in software development and currently working at Quinto Andar
+- 💻 &emsp; I'm a software engineer with about 10 years of experience in software development and currently working at Quinto Andar
 - 🎓 &emsp; Graduate in Digital Design and Postgraduate in Software Engineering at PUC-SP
 - 🎯 &emsp; A lifelong learner with a focus on build and generating results
 - 📚 &emsp; I'm currently learning and improve about the solutions of software architecture, design patterns and algorithms
